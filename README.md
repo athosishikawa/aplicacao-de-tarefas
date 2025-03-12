@@ -4,6 +4,8 @@ Este projeto é um Gerenciador de Tarefas simples e eficiente, desenvolvido como
 
 ![image](https://github.com/user-attachments/assets/d688191c-3136-4e20-a525-71e7e4c03413)
 
+![image](https://github.com/user-attachments/assets/c69dab9f-ebe8-4933-90d8-582501862425)
+
 
 ## Descrição do Projeto
 
